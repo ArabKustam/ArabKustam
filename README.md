@@ -1,3 +1,13 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Arab%20Kustam&fontSize=70&fontColor=6cd8bf&fontAlign=53&fontAlignY=50&rotate=-1.6&stroke=-&animation=scaleIn&descSize=20&descAlign=48&descAlignY=85&color=5a90aa"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:ArabKustam?theme=capoo-2&padding=3&offset=-1&scale=0.621&align=top&pixelated=0&darkmode=auto"  />
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arab_kustamm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@crack_dragon128/featured) 
 
@@ -11,4 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArabKustam&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=5a90aa"  />
+</div>
 
