@@ -27,7 +27,7 @@
 
 <details open>
   <summary><h2>📘 My Projects</h2></summary>
-
+ 
   <!-- Repo cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/ArabKustam/Simple-Voice-Chat-Transcribe"><img width="278" alt="Simple-Voice-Chat-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Simple-Voice-Chat-Transcribe&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
