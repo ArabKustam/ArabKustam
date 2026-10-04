@@ -17,19 +17,13 @@
   <a href="https://github.com/ArabKustam?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArabKustam?color=6cd8bf&labelColor=1f222e&style=for-the-badge&logo=star&logoColor=white"/></a>
 </p>
 
-<!-- View counter -->
-<p align="center">
-  <img src="https://count.getloli.com/@:ArabKustam?theme=capoo-2&padding=7&offset=-1&scale=0.6&pixelated=0&darkmode=auto" alt="Profile views" />
-</p>
-
 <details open>
   <summary><h2>👨‍💻 About Me</h2></summary>
 
   - 🔭 Building web apps, Telegram bots, parsers and small tools
   - 🧠 Exploring machine learning with **PyTorch** and **TensorFlow**
   - 🎨 Doing design, pixel art and video editing for fun
-  - 💬 Ask me about **Python**, **JavaScript**, **React** and **Django**
-  - 📫 Reach me on [Discord](https://discord.gg/arab_kustamm) or [YouTube](https://www.youtube.com/@crack_dragon128)
+  - 📫 Reach me on [Discord](https://discord.gg/arab_kustamm)
 </details>
 
 <details open>
@@ -37,12 +31,11 @@
 
   <!-- Repo cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/ArabKustam/cryptography"><img width="278" alt="cryptography" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=cryptography&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/sort-simulation"><img width="278" alt="sort-simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=sort-simulation&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/encelada-film"><img width="278" alt="encelada-film" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-film&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
     <a href="https://github.com/ArabKustam/Simple-Voice-Chat-Transcribe"><img width="278" alt="Simple-Voice-Chat-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Simple-Voice-Chat-Transcribe&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/tgBOTforHomeWork"><img width="278" alt="tgBOTforHomeWork" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=tgBOTforHomeWork&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/mcmdlogger-gui"><img width="278" alt="mcmdlogger-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=mcmdlogger-gui&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Plasma-Voice-Transcribe"><img width="278" alt="Plasma-Voice-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Plasma-Voice-Transcribe&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/encelada-sound-lab"><img width="278" alt="encelada-sound-lab" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-sound-lab&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Encilada-SEO-Github"><img width="278" alt="Encilada-SEO-Github" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Encilada-SEO-Github&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/encelada-film"><img width="278" alt="encelada-film" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-film&theme=react&bg_color=1F222E&title_color=6CD8BF&icon_color=5A90AA&text_color=C9D1D9&hide_border=true&show_owner=false"></a>
   </p>
 
   <a href="https://github.com/ArabKustam?tab=repositories&sort=updated"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -139,20 +132,6 @@
 
   <b>Note:</b> Top languages only reflects the code in my public repositories, not experience or skill level.
 
-  <h3>📈 Contribution Graph</h3>
-
-  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <p>
-    <img alt="ArabKustam's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArabKustam&bg_color=1F222E&color=C9D1D9&line=6CD8BF&point=5A90AA&area=true&hide_border=true" />
-  </p>
-
-  <h3>🐍 Contribution Snake</h3>
-
-  <!-- Generated by .github/workflows/MAIN.yml - https://github.com/Platane/snk -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArabKustam/ArabKustam/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ArabKustam/ArabKustam/output/github-contribution-grid-snake.svg" />
-  </picture>
 </details>
 
 <!-- Footer -->
