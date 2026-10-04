@@ -11,7 +11,6 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.youtube.com/@crack_dragon128"><img alt="YouTube" title="My YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/arab_kustamm"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/ArabKustam?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ArabKustam?color=5a90aa&labelColor=1f222e&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ArabKustam?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArabKustam?color=6cd8bf&labelColor=1f222e&style=for-the-badge&logo=star&logoColor=white"/></a>
