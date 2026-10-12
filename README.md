@@ -1,6 +1,6 @@
 <!-- Banner: rendered in Blender (planet from my avatar generator) -->
 <p align="center">
-  <img width="100%" src="./assets/banner.gif" alt="Markdip — Full-stack • Python • C++ • Machine Learning" />
+  <img width="100%" src="./assets/banner.webp" alt="Markdip — Full-stack • Python • C++ • Machine Learning" />
 </p>
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
