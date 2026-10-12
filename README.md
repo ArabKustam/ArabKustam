@@ -31,11 +31,11 @@
 
   <!-- Repo cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/ArabKustam/Simple-Voice-Chat-Transcribe"><img width="278" alt="Simple-Voice-Chat-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Simple-Voice-Chat-Transcribe&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/Plasmo-Voice-Transcribe"><img width="278" alt="Plasmo-Voice-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Plasmo-Voice-Transcribe&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/Plugin-Minecraft-studio"><img width="278" alt="Plugin-Minecraft-studio" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Plugin-Minecraft-studio&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/Encilada-SEO-Github"><img width="278" alt="Encilada-SEO-Github" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Encilada-SEO-Github&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
-    <a href="https://github.com/ArabKustam/encelada-film"><img width="278" alt="encelada-film" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-film&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Simple-Voice-Chat-Transcribe"><img width="278" alt="Simple-Voice-Chat-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Simple-Voice-Chat-Transcribe&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Plasmo-Voice-Transcribe"><img width="278" alt="Plasmo-Voice-Transcribe" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Plasmo-Voice-Transcribe&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Plugin-Minecraft-studio"><img width="278" alt="Plugin-Minecraft-studio" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Plugin-Minecraft-studio&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/Encilada-SEO-Github"><img width="278" alt="Encilada-SEO-Github" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=Encilada-SEO-Github&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
+    <a href="https://github.com/ArabKustam/encelada-film"><img width="278" alt="encelada-film" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-film&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
   </p>
 
   <a href="https://github.com/ArabKustam?tab=repositories&sort=updated"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-21262D?style=for-the-badge&logoColor=00D8FF&logo=repo"/></a>
@@ -115,8 +115,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArabKustam&show_icons=true&count_private=true&hide_border=true&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&ring_color=FF3D8B" height="170" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabKustam&langs_count=8&layout=compact&hide_border=true&bg_color=0B0636&title_color=00D8FF&text_color=C9D1FF" height="170" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArabKustam&show_icons=true&count_private=true&hide_border=true&bg_color=161B22&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&ring_color=FF3D8B" height="170" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabKustam&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&title_color=00D8FF&text_color=C9D1FF" height="170" />
   </p>
 
   <b>Note:</b> Top languages only reflects the code in my public repositories, not experience or skill level.
