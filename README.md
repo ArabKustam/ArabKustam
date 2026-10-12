@@ -11,9 +11,9 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://discord.gg/arab_kustamm"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-3A00B8?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://github.com/ArabKustam?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ArabKustam?color=0080FF&labelColor=0B0636&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ArabKustam?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArabKustam?color=FF3D8B&labelColor=0B0636&style=for-the-badge&logo=star&logoColor=white"/></a>
+  <a href="https://discord.gg/arab_kustamm"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-1A1452?style=for-the-badge&logo=discord&logoColor=00D8FF"/></a>
+  <a href="https://github.com/ArabKustam?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ArabKustam?color=2A2170&labelColor=1A1452&style=for-the-badge&logo=person-add&label=Follow&logoColor=E6FF1A"/></a>
+  <a href="https://github.com/ArabKustam?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArabKustam?color=2A2170&labelColor=1A1452&style=for-the-badge&logo=star&logoColor=FF3D8B"/></a>
 </p>
 
 <details open>
@@ -38,7 +38,7 @@
     <a href="https://github.com/ArabKustam/encelada-film"><img width="278" alt="encelada-film" src="https://github-readme-stats.vercel.app/api/pin/?username=ArabKustam&repo=encelada-film&bg_color=0B0636&title_color=00D8FF&icon_color=E6FF1A&text_color=C9D1FF&hide_border=true&show_owner=false"></a>
   </p>
 
-  <a href="https://github.com/ArabKustam?tab=repositories&sort=updated"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-3A00B8?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ArabKustam?tab=repositories&sort=updated"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1452?style=for-the-badge&logoColor=00D8FF&logo=repo"/></a>
 </details>
 
 <details open>
@@ -46,77 +46,70 @@
 
   <h3>👨‍💻 Languages</h3>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-0B0636.svg?style=for-the-badge&logo=python&logoColor=00D8FF">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0B0636.svg?style=for-the-badge&logo=cplusplus&logoColor=E6FF1A">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0636.svg?style=for-the-badge&logo=typescript&logoColor=FF3D8B">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B0636.svg?style=for-the-badge&logo=javascript&logoColor=0080FF">
-    <img alt="Java" src="https://img.shields.io/badge/Java-0B0636.svg?style=for-the-badge&logo=openjdk&logoColor=00D8FF">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-0B0636.svg?style=for-the-badge&logo=html5&logoColor=E6FF1A">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-0B0636.svg?style=for-the-badge&logo=css3&logoColor=FF3D8B">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-0B0636.svg?style=for-the-badge&logo=databricks&logoColor=0080FF">
+    <img alt="Python" src="https://img.shields.io/badge/Python-1A1452.svg?style=for-the-badge&logo=python&logoColor=00D8FF">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1A1452.svg?style=for-the-badge&logo=cplusplus&logoColor=E6FF1A">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1452.svg?style=for-the-badge&logo=typescript&logoColor=FF3D8B">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1452.svg?style=for-the-badge&logo=javascript&logoColor=0080FF">
+    <img alt="Java" src="https://img.shields.io/badge/Java-1A1452.svg?style=for-the-badge&logo=openjdk&logoColor=00D8FF">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-1A1452.svg?style=for-the-badge&logo=html5&logoColor=E6FF1A">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1A1452.svg?style=for-the-badge&logo=css3&logoColor=FF3D8B">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-1A1452.svg?style=for-the-badge&logo=databricks&logoColor=0080FF">
   </p>
   <h3>🧰 Frameworks & Libraries</h3>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React-0B0636.svg?style=for-the-badge&logo=react&logoColor=00D8FF">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-0B0636.svg?style=for-the-badge&logo=react&logoColor=E6FF1A">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0636.svg?style=for-the-badge&logo=next.js&logoColor=FF3D8B">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-0B0636.svg?style=for-the-badge&logo=vuedotjs&logoColor=0080FF">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-0B0636.svg?style=for-the-badge&logo=vite&logoColor=00D8FF">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B0636.svg?style=for-the-badge&logo=node.js&logoColor=E6FF1A">
-    <img alt="Django" src="https://img.shields.io/badge/Django-0B0636.svg?style=for-the-badge&logo=django&logoColor=FF3D8B">
-    <img alt="React Router" src="https://img.shields.io/badge/React%20Router-0B0636.svg?style=for-the-badge&logo=react-router&logoColor=0080FF">
-    <img alt="React Query" src="https://img.shields.io/badge/React%20Query-0B0636.svg?style=for-the-badge&logo=reactquery&logoColor=00D8FF">
-    <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-0B0636.svg?style=for-the-badge&logo=reacthookform&logoColor=E6FF1A">
+    <img alt="React" src="https://img.shields.io/badge/React-1A1452.svg?style=for-the-badge&logo=react&logoColor=00D8FF">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-1A1452.svg?style=for-the-badge&logo=react&logoColor=E6FF1A">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A1452.svg?style=for-the-badge&logo=next.js&logoColor=FF3D8B">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-1A1452.svg?style=for-the-badge&logo=vuedotjs&logoColor=0080FF">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-1A1452.svg?style=for-the-badge&logo=vite&logoColor=00D8FF">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A1452.svg?style=for-the-badge&logo=node.js&logoColor=E6FF1A">
+    <img alt="Django" src="https://img.shields.io/badge/Django-1A1452.svg?style=for-the-badge&logo=django&logoColor=FF3D8B">
+    <img alt="React Router" src="https://img.shields.io/badge/React%20Router-1A1452.svg?style=for-the-badge&logo=react-router&logoColor=0080FF">
+    <img alt="React Query" src="https://img.shields.io/badge/React%20Query-1A1452.svg?style=for-the-badge&logo=reactquery&logoColor=00D8FF">
+    <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-1A1452.svg?style=for-the-badge&logo=reacthookform&logoColor=E6FF1A">
   </p>
   <h3>🤖 Data Science & ML</h3>
   <p>
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0B0636.svg?style=for-the-badge&logo=pytorch&logoColor=00D8FF">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0B0636.svg?style=for-the-badge&logo=tensorflow&logoColor=E6FF1A">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0B0636.svg?style=for-the-badge&logo=numpy&logoColor=FF3D8B">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0B0636.svg?style=for-the-badge&logo=pandas&logoColor=0080FF">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-0B0636.svg?style=for-the-badge&logo=scipy&logoColor=00D8FF">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0B0636.svg?style=for-the-badge&logo=plotly&logoColor=E6FF1A">
-    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-0B0636.svg?style=for-the-badge&logo=nvidia&logoColor=FF3D8B">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A1452.svg?style=for-the-badge&logo=pytorch&logoColor=00D8FF">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-1A1452.svg?style=for-the-badge&logo=tensorflow&logoColor=E6FF1A">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1A1452.svg?style=for-the-badge&logo=numpy&logoColor=FF3D8B">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A1452.svg?style=for-the-badge&logo=pandas&logoColor=0080FF">
+    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-1A1452.svg?style=for-the-badge&logo=scipy&logoColor=00D8FF">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1A1452.svg?style=for-the-badge&logo=plotly&logoColor=E6FF1A">
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-1A1452.svg?style=for-the-badge&logo=nvidia&logoColor=FF3D8B">
   </p>
   <h3>🗄️ Databases & Cloud</h3>
   <p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B0636.svg?style=for-the-badge&logo=postgresql&logoColor=00D8FF">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B0636.svg?style=for-the-badge&logo=mysql&logoColor=E6FF1A">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0B0636.svg?style=for-the-badge&logo=sqlite&logoColor=FF3D8B">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-0B0636.svg?style=for-the-badge&logo=redis&logoColor=0080FF">
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0B0636.svg?style=for-the-badge&logo=googlecloud&logoColor=00D8FF">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1452.svg?style=for-the-badge&logo=postgresql&logoColor=00D8FF">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1A1452.svg?style=for-the-badge&logo=mysql&logoColor=E6FF1A">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1A1452.svg?style=for-the-badge&logo=sqlite&logoColor=FF3D8B">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-1A1452.svg?style=for-the-badge&logo=redis&logoColor=0080FF">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-1A1452.svg?style=for-the-badge&logo=googlecloud&logoColor=00D8FF">
   </p>
   <h3>🛠️ Tools & DevOps</h3>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-0B0636.svg?style=for-the-badge&logo=git&logoColor=00D8FF">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B0636.svg?style=for-the-badge&logo=github&logoColor=E6FF1A">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0B0636.svg?style=for-the-badge&logo=githubactions&logoColor=FF3D8B">
-    <img alt="NPM" src="https://img.shields.io/badge/NPM-0B0636.svg?style=for-the-badge&logo=npm&logoColor=0080FF">
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0B0636.svg?style=for-the-badge&logo=playwright&logoColor=00D8FF">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-0B0636.svg?style=for-the-badge&logo=postman&logoColor=E6FF1A">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-0B0636.svg?style=for-the-badge&logo=swagger&logoColor=FF3D8B">
-    <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-0B0636.svg?style=for-the-badge&logo=ffmpeg&logoColor=0080FF">
-    <img alt="Tampermonkey" src="https://img.shields.io/badge/Tampermonkey-0B0636.svg?style=for-the-badge&logo=tampermonkey&logoColor=00D8FF">
+    <img alt="Git" src="https://img.shields.io/badge/Git-1A1452.svg?style=for-the-badge&logo=git&logoColor=00D8FF">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1452.svg?style=for-the-badge&logo=github&logoColor=E6FF1A">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1A1452.svg?style=for-the-badge&logo=githubactions&logoColor=FF3D8B">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-1A1452.svg?style=for-the-badge&logo=npm&logoColor=0080FF">
+    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1A1452.svg?style=for-the-badge&logo=playwright&logoColor=00D8FF">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-1A1452.svg?style=for-the-badge&logo=postman&logoColor=E6FF1A">
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-1A1452.svg?style=for-the-badge&logo=swagger&logoColor=FF3D8B">
+    <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-1A1452.svg?style=for-the-badge&logo=ffmpeg&logoColor=0080FF">
+    <img alt="Tampermonkey" src="https://img.shields.io/badge/Tampermonkey-1A1452.svg?style=for-the-badge&logo=tampermonkey&logoColor=00D8FF">
   </p>
   <h3>🎨 Design & Creative</h3>
   <p>
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-0B0636.svg?style=for-the-badge&logo=adobephotoshop&logoColor=00D8FF">
-    <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-0B0636.svg?style=for-the-badge&logo=adobepremierepro&logoColor=E6FF1A">
-    <img alt="Blender" src="https://img.shields.io/badge/Blender-0B0636.svg?style=for-the-badge&logo=blender&logoColor=FF3D8B">
-    <img alt="Krita" src="https://img.shields.io/badge/Krita-0B0636.svg?style=for-the-badge&logo=krita&logoColor=0080FF">
-    <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-0B0636.svg?style=for-the-badge&logo=aseprite&logoColor=00D8FF">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-1A1452.svg?style=for-the-badge&logo=adobephotoshop&logoColor=00D8FF">
+    <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-1A1452.svg?style=for-the-badge&logo=adobepremierepro&logoColor=E6FF1A">
+    <img alt="Blender" src="https://img.shields.io/badge/Blender-1A1452.svg?style=for-the-badge&logo=blender&logoColor=FF3D8B">
+    <img alt="Krita" src="https://img.shields.io/badge/Krita-1A1452.svg?style=for-the-badge&logo=krita&logoColor=0080FF">
+    <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-1A1452.svg?style=for-the-badge&logo=aseprite&logoColor=00D8FF">
   </p>
 </details>
 
 <details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <img alt="Streak" src="https://streak-stats.demolab.com/?user=ArabKustam&background=0B0636&border=3A00B8&stroke=3A00B8&ring=FF3D8B&fire=E6FF1A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D8FF&sideLabels=00D8FF&dates=8A8FB8&hide_border=true&short_numbers=true" />
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
